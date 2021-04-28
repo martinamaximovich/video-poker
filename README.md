@@ -1,5 +1,5 @@
 # video-poker
-Text-based video poker game programmed in Java.
+Text-based video poker game to be run on a terminal programmed in Java.
 
 This program has 4 classes: Game, Player,
 Card, and Deck, wherein player/card/deck all communicate with game in order to 
