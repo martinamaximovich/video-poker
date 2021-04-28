@@ -2,8 +2,7 @@
 Text-based video poker game programmed in Java.
 
 This program has 4 classes: Game, Player,
-Card, and Deck, wherein player/card/deck all communicate with game in order to 
-make the video poker game possible. The Deck class is responsible for generating
+Card, and Deck, wherein player/card/deck. The Deck class is responsible for generating
 the 52-card deck of cards used in poker, as well as methods related to the deck
 like shuffling it and dealing a card from it. The Player class is responsible
 for keeping track of the video poker player's scoreboard while playing the game,
