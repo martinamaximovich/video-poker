@@ -1,7 +1,7 @@
 # video-poker
 Text-based video poker game programmed in Java.
 
-In order to construct a video poker game, I had to make 4 classes: Game, Player,
+This program has 4 classes: Game, Player,
 Card, and Deck, wherein player/card/deck all communicate with game in order to 
 make the video poker game possible. The Deck class is responsible for generating
 the 52-card deck of cards used in poker, as well as methods related to the deck
